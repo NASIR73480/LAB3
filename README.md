@@ -1,6 +1,6 @@
 # LAB3
 # this repository contain lab3 documentation
-#NAME    NASIR KHAN
+#NAME    NASIR KHAN <br>
 *UET MARDAN  <br> DEPARTMENT CS
 ##LINK TO GUEST FIRST.PY
 <script src="https://gist.github.com/NASIR73480/88733c675c0184c0ad85ff368c1f24b5.js"></script>
